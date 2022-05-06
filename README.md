@@ -65,7 +65,7 @@ This small data visualization can give us a better grasp of the data that we are
 
 * The performance metric that we are going to be using is the Area under the ROC curve.
 
-![](Loss Curve.png)
+![](Loss_Curve.png)
 
 This illustrates the loss over epoch curve as well as the AUC over epoch curve.
 
