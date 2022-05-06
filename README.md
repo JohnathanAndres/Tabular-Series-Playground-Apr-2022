@@ -29,12 +29,12 @@ Tabular Playground Series - Apr 2022 challenge on Kaggle. (https://www.kaggle.co
 #### Data Visualization
 
 Using the Labeled training data set we can find a representation of 2 states, namely sequence 0 and sequence 1. 
-[](Senor_12.png)
-[](Sensor_02.png)
+![](Senor_12.png)
+![](Sensor_02.png)
 These are two representation of features that may possibly be used to distinguish the states.
 
-[](Sensor_00.png)
-[](Sensor_03.png)
+![](Sensor_00.png)
+![](Sensor_03.png)
 These are two representation of features that may not be as useful when distinguishing the states.
 
 This small data visualization can give us a better grasp of the data that we are presented with and give us insight on possible ways of changing our model.
@@ -58,7 +58,7 @@ This small data visualization can give us a better grasp of the data that we are
 ### Performance Comparison
 
 * The performance metric that we are going to be using is the Area under the ROC curve.
-[](Loss Curve.png)
+![](Loss Curve.png)
 
 This illustrates the loss over epoch curve as well as the AUC over epoch curve.
 
