@@ -77,6 +77,8 @@ This illustrates the loss over epoch curve as well as the AUC over epoch curve.
 
 * The next next thing that I would love to try is using a CNN to handle classification of time series data. Also just use a very much larger set of training data to train my LSTM model.
 * Another thing for the future is possibly using other models that can classify time series data and comparing the effeciency in terms of time and results.
+* Use the test data and predict the output for performance evaluation.
+* Use other optimizers metrics such as accuracy.
 
 ## How to reproduce results
 
